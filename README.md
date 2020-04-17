@@ -19,4 +19,4 @@ E aí você está preparado para começar a programar? Fique tranquilo, nesta s�
 ## Vídeo 2
 * [MAPA DE LEITURAS - PLANILHA NO EXCEL](https://youtu.be/3s9hxIPgNYw)
 
-* Base de dados utilizada: minhas_leituras_2019.xlsx
+  * Base de dados utilizada: [minhas_leituras_2019.xlsx](https://github.com/anacwagner/LiteraComp/blob/master/minhas_leituras_2019.xlsx)
